@@ -56,18 +56,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      An I.T. professional with solid experience designing and delivering server infrastructures. Adept at managing data-centre operations across assorted operating systems, applications, and platforms. Consistently striving to enhance I.T. processes, enjoying the challenge of finding new solutions to continually improve system delivery, availability, reliability, scalability, security, data confidentiality and integrity.
 education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+        university: University of Hertfordshire
+        time: 1998 - 2000
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +71,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BA(Hons) Business Studies 2:1
+        university: University of Hertfordshire
+        time: 1994 - 1998
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,8 +85,8 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
+      - role:  
+        time:  
         company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
