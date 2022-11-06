@@ -7,39 +7,33 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Mark Watsham
+    tagline: Virtual/Cloud Infrastructure Professional
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: mark@watsham.net
+    timezone: Europe/London Timezone
+    citizenship: British
+    linkedin: mark watsham
+    github: mwatsham
+#    twitter: ''
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
+#    pdf: 
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+#    languages:
+#      title: Languages
+#      info:
+#        - idiom: English
+#          level: Native
+#
+#        - idiom: French
+#          level: Professional
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+#        - idiom: Spanish
+#          level: Professional
 
     interests:
       title: Interests
@@ -63,31 +57,31 @@ education:
       - degree: MSc in Computer Science
         university: University of Hertfordshire
         time: 1998 - 2000
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+#        details: |
+#          Describe your study here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#          sociis natoque penatibus et magnis dis parturient montes, nascetur
+#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#          pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
       - degree: BA(Hons) Business Studies 2:1
         university: University of Hertfordshire
         time: 1994 - 1998
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+#        details: |
+#          Describe your study here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#          sociis natoque penatibus et magnis dis parturient montes, nascetur
+#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#          pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
 experiences:
     title: Experiences
     info:
-      - role:  
-        time:  
-        company: Startup Hubs, San Francisco
+      - role: Senior Core Site Reliability Engineer
+        time: June 2022 - Present
+        company: Sky UK, Middlesex
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -100,9 +94,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Senior Unix Infrastructure Engineer
+        time: Dec 2010 - June 2022
+        company: Sky UK, Middlesex
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -111,8 +105,8 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
+      - role: Broadcast Technology Intergration Test Team Lead
+        time: Apr 2006 - Dec 2010
         company: Amazon, London
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -149,27 +143,27 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
