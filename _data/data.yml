@@ -8,15 +8,15 @@ sidebar:
 
     # Profile information
     name: Mark Watsham
-    tagline: Virtual/Cloud Infrastructure Professional
+    tagline: Experienced IT Infrastructure Engineer
 #    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mark@watsham.net
     timezone: Europe/London Timezone
     citizenship: British
-    linkedin: markwatsham
-    github: mwatsham
+    linkedin: linkedin.com/in/mark-watsham-4154041
+    github: github.com/mwatsham
 #    twitter: ''
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    codewars:
@@ -35,22 +35,22 @@ sidebar:
 #        - idiom: Spanish
 #          level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+#    interests:
+#      title: Interests
+#      info:
+#        - item: Climbing
+#          link:
+#
+#        - item: Snowboarding
+#          link:
+#
+#        - item: Cooking
+#          link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      An I.T. professional with solid experience designing and delivering server infrastructures. Adept at managing data-centre operations across assorted operating systems, applications, and platforms. Consistently striving to enhance I.T. processes, enjoying the challenge of finding new solutions to continually improve system delivery, availability, reliability, scalability, security, data confidentiality and integrity.
+#career-profile:
+#    title: Career Profile
+#    summary: |
+#      An I.T. professional with solid experience designing and delivering server infrastructures. Adept at managing data-centre operations across assorted operating systems, applications, and platforms. Consistently striving to enhance I.T. processes, enjoying the challenge of finding new solutions to continually improve system delivery, availability, reliability, scalability, security, data confidentiality and integrity.
 education:
     title: Education
     info:
@@ -187,5 +187,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
