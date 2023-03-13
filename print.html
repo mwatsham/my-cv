@@ -10,6 +10,10 @@ permalink: /print
   {% include education.html %}
 {% endunless %}
 
+{% unless site.data.data.sidebar.certification %}
+  {% include certifications.html %}
+{% endunless %}
+
 {% include experiences.html %}
 
 {% include projects.html %}

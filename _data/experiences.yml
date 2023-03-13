@@ -1,0 +1,69 @@
+---
+title: Experiences
+info:
+  - role: Senior Site Reliability Engineer
+    time: June 2022 - Present
+    company: Sky UK, Middlesex
+    details: |
+      Creating a platform delivery center of excellence to facilitate the adoption automated cloud deployments through self-service mechanisms and frameworks. 
+        - Leading the technical design and implementation of a self-service portal to deploy compute and resources to public and private cloud platforms.
+        - Developing Concourse CI IAC pipelines for private (AWS) and public (VMWare) cloud service deployments.
+        - Crafting Terraform and Ansible service deployment frameworks for the internal SRE community.
+        - Providing technical mentorship for junior SREs.
+
+  - role: Senior Unix Infrastructure Engineer
+    time: Dec 2010 - June 2022
+    company: Sky UK, Middlesex
+    details: |
+      Operating in the fast-paced environment of Broadcast I.T., a leading team member with primary responsibilities covering project delivery and infrastructure deployments.  
+        - Automated the server provisioning process, significantly reducing build times from days to minutes. 
+        - Designed and implemented a Puppet configuration management system, improving server build consistency and supportability.
+        - Lead development activity to automate the OAC process with Ansible, using the process to provide an educational opportunity for team members.
+        - Ensured smooth and reliable operations of 2000+ physical and virtual server environments by encouraging a predictive remediation mindset.
+        - Took ownership of CVE triage and management to develop a proactive rather reactive resolution process.
+        - Participated in out-of-hours system support/changes.
+        - Engineered POC environments and providing input into platform design process.
+        - Advocated the use of Ansible to automated repetitive operational activities, increasing team productivity. 
+        - Acted as an escalation point for troubleshooting.
+        - Provided technical lead advice to team members and management. 
+
+  - role: Broadcast Technology Integration Test Team Lead
+    time: Apr 2006 - Dec 2010
+    company: Sky UK, Middlesex
+    details: |
+      A key member of the Broadcast applications Quality Assurance team, guiding the application delivery process on a highly visible, revenue sensitive environment.
+        - Established and managed an end-to-end broadcast test environment, improving test consistency and efficiency.
+        - Championed the use of Mercury Quality Center for managing requirements definition, test planning, and defect management.
+        - Conducted planning, resourcing, and management of project test activities.
+        - Managed the live integration of new application releases on a 24/7 available environment with minimal downtime.
+        - Developed test harnesses/stubs/drivers.
+        - Advocated and demonstrated the concept of automated testing.
+
+  - role: Test & Release Manager 
+    time: Sept 2005 - Apr 2006
+    company: Propero Ltd, London
+    details: |
+      Driving and developing the Quality Assurance effort for the company’s on-demand virtual desktop computing suite. Operating In the demanding environment of a start-up, requiring the breadth of technically hands-on skills, through to management of the test and release process.
+        - Developed the company's software test process and department from scratch.
+        - Led the test and packaging process for new releases.
+        - Ensured quality was built into development-test cycle by advocating test driven development.
+        - Specification, set-up management and operation of testing frameworks, harnesses and environments
+        - Defined and execute end-to-end test including tests of processes, documentation, and software.
+        - Automated the testing process wherever possible.
+  
+  - role: Senior Integration & Test Engineer  
+    time: Dec 2003 - Sept 2005
+    company: BSkyB Ltd, Middlesex
+    details: |
+      Leading the quality assurance and live integration activities for proprietary applications supporting the Sky Active platform. 
+        - Enhanced product quality by holding post release reviews with business users, providing feedback to development teams.
+        - Sole responsibility for the test and release of the Live Interactive Content Editor product.
+        - Chaired test results reviews with key stakeholders 
+        - Providing troubleshooting assistance for platform support teams. 
+
+  - role: Senior System Test Engineer   
+    time: Mar 2000 - Dec 2003
+    company: Two Way Media Ltd, London
+    details: |
+      An energetic tech-start up environment, delivering interactive television solutions. The first opportunity to put technology learnings into practice. Progressed quickly from a Test Analyst to senior roles in the Quality Assurance. 
+

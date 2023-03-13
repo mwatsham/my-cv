@@ -1,0 +1,54 @@
+{% assign certification = site.data.certifications %}
+{% if certification %}
+  {% if site.data.data.sidebar.certification %}
+  <div class="certification-container container-block">
+
+    <h2 class="container-block-title">
+      {{ certification.title }}
+    </h2>
+
+    {% for cert in certification.info %}
+    <div class="item">
+      <h4 class="degree">{{ cert.title }}</h4>
+      <h5 class="meta">{{ cert.cert_body }}</h5>
+      <div class="time">{{ cert.time }}</div>
+    </div><!--//item-->
+    {% endfor %}
+
+  </div><!--//certification-container-->
+  {% else %}
+  <section class="section certifications-section">
+
+    <h2 class="section-title">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+      {{ certification.title }}
+    </h2>
+
+    {% for cert in certification.info %}
+    <div class="item">
+
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="title">{{ cert.title }}</h3>
+          <div class="time">{{ cert.time }}</div>
+        </div><!--//upper-row-->
+
+        <div class="cert_body">{{ cert.cert_body }}</div>
+      </div><!--//meta-->
+
+      {% if cert.details %}
+      <div class="details">
+        {{ cert.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </section><!--//section-->
+  {% endif %}
+{% endif %}
