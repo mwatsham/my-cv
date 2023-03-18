@@ -6,11 +6,17 @@ title: Projects
 #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 assignments:
   - title: VMWare NSX-T CI/CD Pipeline
-    link: "#"
+    role: Senior Unix Infrastructure Engineer
+    time: June - Sept 2022
+    company: Sky UK, Middlesex
+    link: ""
     tagline: "Designed and developed a Terraform based VMWare NSX-T configuration delivered via GitLab CI/CD. This required the adaptation of GitLab Runner Docker container images deployed to on-prem Rancher Kubernetes clusters to accommodate a more secure off-line environment. This benefitted business by reducing the required training overhead for NSX-T DFW delivery/configuration whilst satisfying the Security auditing requirement for distributed firewall changes. "
-#  - title: DevStudio
-#    link: "#"
-#    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Puppet server build automation
+    role: Senior Unix Infrastructure Engineer
+    time: Sept 2013 - Mar 2014
+    company: Sky UK, Middlesex
+    link: ""
+    tagline: "Transformed the process for the physical build Unix hosts by developing an Infrastructure-as-Code process using SpaceWalk, Cobbler, and Puppet. Server builds that could take days were brought down to minutes/hours. The consistency of the IaC approach also resulted in a reduction in incidents/call-outs plus a reduced resolution time due to consistent host configuration."
 #  - title: Tempo
 #    link: "#"
 #    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
