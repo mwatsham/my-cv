@@ -22,24 +22,22 @@
       <div class="meta">
 
         <div class="upper-row">
-          <h3 class="job-title">{{ project.role }}</h3>
+          <span class="project-title">
+            {% if project.link %}
+            <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+            {% else %}
+            {{ project.title }}
+            {% endif %}
+          </span>
           <div class="time">{{ project.time }}</div>
         </div><!--//upper-row-->
-  
-        <div class="company">{{ project.company }}</div>
-  
+
       </div><!--//meta-->
 
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </span>
+      
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
