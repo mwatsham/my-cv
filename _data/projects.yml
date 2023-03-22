@@ -5,6 +5,10 @@ title: Projects
 #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 assignments:
+  - title: AWS hosted remote Terraform state backend
+    time: Nov 2022
+    link: "https://github.com/mwatsham/concourse-aws-terraform-backend"
+    tagline: "Simplified the management of Terraform state backends by creating common shared service hosted in AWS. Defined a Terraform Concourse CI pipeline to automate the deployment and management of AWS S3 buckets, KMS keys, and DynamoDB tables to implement a secure and resilient remote Terraform state backend. Offered as a service this reduced the overhead for developers setting up remote Terraform state backends whilst improving the accessibility of state files, empowering greater developer collaboration."
   - title: VMWare NSX-T CI/CD Pipeline
     time: June - Sept 2022
     #link: ""
