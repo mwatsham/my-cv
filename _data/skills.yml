@@ -2,7 +2,17 @@
 title: Skills &amp; Proficiency
 
 toolset:
+  - name: AWS - IAM, Lambda, DynamoDB, SQS, SNS, S3, EC2
+    level: 65%
+  - name: Kubernetes - Rancher, ECS
+    level: 50%
+  - name: CI/CD - GitLab CI/CD, Concourse CI
+    level: 70%   
   - name: Python
+    level: 60%
+  - name: Git/GitLab/GitHub
+    level: 70%
+  - name: VMWare - vSphere, NSX-T
     level: 60%
 
 #  - name: Javascript & jQuery
