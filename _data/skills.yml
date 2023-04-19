@@ -2,6 +2,8 @@
 title: Skills &amp; Proficiency
 
 toolset:
+  - name: Linux - RHEL
+    level: 75%
   - name: AWS - IAM, Lambda, DynamoDB, SQS, SNS, S3, EC2
     level: 65%
   - name: Kubernetes - Rancher, ECS
