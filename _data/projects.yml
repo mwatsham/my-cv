@@ -5,6 +5,9 @@ title: Notable Projects
 #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 assignments:
+#  - title: Self-service compute deployment portal
+#    time: Dec 2022 - Present
+#    tagline: ""
   - title: AWS hosted remote Terraform state backend
     time: Nov 2022
     link: "https://github.com/mwatsham/concourse-aws-terraform-backend"
