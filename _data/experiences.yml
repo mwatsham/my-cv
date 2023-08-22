@@ -20,9 +20,9 @@ info:
         - Designed and implemented a Puppet configuration management system, improving server build consistency and supportability.
         - Lead development activity to automate the OAC process with Ansible, using the process to provide an educational opportunity for team members.
         - Ensured smooth and reliable operations of 2000+ physical and virtual server environments by encouraging a predictive remediation mindset.
-        - Took ownership of CVE triage and management to develop a proactive rather reactive resolution process.
+        - Took ownership of CVE triage and management to develop a proactive rather than reactive resolution process.
         - Participated in out-of-hours system support/changes.
-        - Engineered POC environments and providing input into platform design process.
+        - Engineered POC environments and providing input into platform design processes.
         - Advocated the use of Ansible to automated repetitive operational activities, increasing team productivity. 
         - Acted as an escalation point for troubleshooting.
         - Provided technical lead advice to team members and management. 
