@@ -33,7 +33,7 @@ info:
     details: |
       A key member of the Broadcast applications Quality Assurance team, guiding the application delivery process on a highly visible, revenue sensitive environment.
         - Established and managed an end-to-end broadcast test environment, improving test consistency and efficiency.
-        - Championed the use of Mercury Quality Center for managing requirements definition, test planning, and defect management.
+        - Championed the use of Mercury Quality Center for managing requirement definitions, test planning, and defect management.
         - Conducted planning, resourcing, and management of project test activities.
         - Managed the live integration of new application releases on a 24/7 available environment with minimal downtime.
         - Developed test harnesses/stubs/drivers.
@@ -46,9 +46,9 @@ info:
       Driving and developing the Quality Assurance effort for the company’s on-demand virtual desktop computing suite. Operating In the demanding environment of a start-up, requiring the breadth of technically hands-on skills, through to management of the test and release process.
         - Developed the company's software test process and department from scratch.
         - Led the test and packaging process for new releases.
-        - Ensured quality was built into development-test cycle by advocating test driven development.
+        - Ensured quality was built into a development-test cycle by advocating test driven development.
         - Specification, set-up management and operation of testing frameworks, harnesses and environments
-        - Defined and execute end-to-end test including tests of processes, documentation, and software.
+        - Defined and executed end-to-end tests including testing of processes, documentation, and software.
         - Automated the testing process wherever possible.
   
   - role: Senior Integration & Test Engineer  
