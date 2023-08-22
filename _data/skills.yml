@@ -6,7 +6,7 @@ toolset:
     level: 75%
   - name: AWS - IAM, Lambda, DynamoDB, SQS, SNS, S3, EC2
     level: 65%
-  - name: Kubernetes - Rancher, ECS
+  - name: Kubernetes/Docker - Rancher, ECS
     level: 50%
   - name: CI/CD - GitLab CI/CD, Concourse CI
     level: 70%   
