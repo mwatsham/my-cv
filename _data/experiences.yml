@@ -5,7 +5,7 @@ info:
     time: June 2022 - Present
     company: Sky UK, Middlesex
     details: |
-      Creating a platform delivery center of excellence to facilitate the adoption automated cloud deployments through self-service mechanisms and frameworks. 
+      Creating a platform delivery center of excellence to facilitate the adoption of automated cloud deployments through self-service mechanisms and frameworks. 
         - Leading the technical design and implementation of a self-service portal to deploy compute and resources to public and private cloud platforms.
         - Developing Concourse CI IAC pipelines for public (AWS) and private (VMWare) cloud service deployments.
         - Crafting Terraform and Ansible service deployment frameworks for the internal SRE community.
