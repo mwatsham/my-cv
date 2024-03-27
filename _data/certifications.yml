@@ -1,15 +1,15 @@
 ---
 title: Certifications
 info:
-  - title: <a href="assets/docs/kcna-certificate.pdf">Kubernetes and Cloud Native Associate</a>
+  - title: <a href="assets/docs/kcna-certificate.pdf" target="_blank" rel="noopener noreferrer">Kubernetes and Cloud Native Associate</a>
     cert_body: The Linux Foundation
     time: March 2024
-  - title: <a href="https://rhtapps.redhat.com/verify?certId=110-221-934">Red Hat Certified Specialist in Linux Diagnostics and Troubleshooting</a>
+  - title: <a href="https://rhtapps.redhat.com/verify?certId=110-221-934" target="_blank" rel="noopener noreferrer">Red Hat Certified Specialist in Linux Diagnostics and Troubleshooting</a>
     cert_body: Red hat
     time: May 2023
-  - title: <a href="assets/docs/AWS Certified Cloud Practitioner certificate.pdf">AWS Cloud Practitioner</a>
+  - title: <a href="assets/docs/AWS Certified Cloud Practitioner certificate.pdf" target="_blank" rel="noopener noreferrer">AWS Cloud Practitioner</a>
     cert_body: Amazon Web Services
     time: Dec 2022
-  - title: <a href="assets/docs/AWS Certified Solutions Architect - Associate certificate.pdf">AWS Solutions Architect - Associate</a>
+  - title: <a href="assets/docs/AWS Certified Solutions Architect - Associate certificate.pdf" target="_blank" rel="noopener noreferrer">AWS Solutions Architect - Associate</a>
     cert_body: Amazon Web Services
     time: Jan 2023
