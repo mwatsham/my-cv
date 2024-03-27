@@ -1,6 +1,9 @@
 ---
 title: Certifications
 info:
+  - title: <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/71765325-e9f1-4a77-b367-5ef2efad096b-mark-watsham-e20a40a0-588c-45c5-a4eb-9b501f52a67b-certificate.pdf">Kubernetes and Cloud Native Associate</a>
+    cert_body: The Linux Foundation
+    time: March 2024
   - title: <a href="https://rhtapps.redhat.com/verify?certId=110-221-934">Red Hat Certified Specialist in Linux Diagnostics and Troubleshooting</a>
     cert_body: Red hat
     time: May 2023
