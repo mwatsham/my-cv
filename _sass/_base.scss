@@ -195,6 +195,13 @@ p {
     margin-bottom: 60px;
   }
 
+  .experiences-title {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: darken($theme-color, 15%);
+  }
   .experiences-section,
   .educations-section {
     .item {
