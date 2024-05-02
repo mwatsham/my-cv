@@ -4,7 +4,7 @@ info:
   - role: Senior Platform Engineer
     time: June 2022 - Present
     company: Sky UK, Middlesex
-    skills: AWS, Terraform, Ansible, Red Hat Linux, Concourse CI/CD, Python, Docker, Kubernetes, VMWare vSphere
+    skills: AWS, Terraform, Ansible, Red Hat Linux, Concourse CI/CD, Python, Docker, GitHub, Kubernetes, VMWare vSphere
     details: |
       Creating a platform delivery center of excellence to facilitate the adoption of automated cloud deployments through self-service mechanisms and frameworks. 
         - Leading the technical design and implementation of a self-service portal to deploy compute and resources to public and private cloud platforms.
