@@ -23,15 +23,15 @@
       {% if experience.skills %}
       <span class="details">Technical skills: {{ experience.skills }}</span><!--//skills-->
       {% endif %}
+          
+      {% if experience.details %}
+      <div class="details">
+        <br>{{ experience.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
 
     </div><!--//meta-->
-    
-    {% if experience.details %}
-    <div class="details">
-      
-      {{ experience.details | markdownify }}
-    </div><!--//details-->
-    {% endif %}
+
 
 
 
