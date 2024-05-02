@@ -218,7 +218,11 @@ p {
     margin-bottom: 5px;
     color: darken($theme-color, 15%);
   }
-  .skills,
+  .skills-title {
+    font-size: 16px;
+    font-weight: 400;
+    color: darken($theme-color, 15%);
+  }
   .degree {
     color: $text-color;
     font-size: 16px;
