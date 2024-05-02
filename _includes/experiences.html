@@ -1,4 +1,4 @@
-ils{% assign experiences = site.data.experiences %}
+{% assign experiences = site.data.experiences %}
 {% if experiences %}
 <section class="section experiences-section">
   <h2 class="section-title">
@@ -21,7 +21,7 @@ ils{% assign experiences = site.data.experiences %}
 
       <div class="company">{{ experience.company }}</div>
       {% if experience.skills %}
-      <div class="skills">Skills summary: {{ experience.skills | markdownify }}</div><!--//skills-->
+      <div class="details">Skills summary: {{ experience.skills | markdownify }}</div><!--//skills-->
       {% endif %}
 
     </div><!--//meta-->
