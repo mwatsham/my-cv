@@ -8,7 +8,7 @@ info:
     details: |
       Creating a platform delivery center of excellence to facilitate the adoption of automated cloud deployments through self-service mechanisms and frameworks. 
         - Leading the technical design and implementation of a self-service portal to deploy compute and resources to public and private cloud platforms.
-        - Proactively keeping up-to-date with relevant technical invovations and conducting proof-of-concepts to assess new technologies such as GitOps Argo CD for Kubernetes. 
+        - Proactively keeping up-to-date with relevant technical innovations and conducting proof-of-concepts to assess new technologies such as GitOps Argo CD for Kubernetes. 
         - Developing Concourse CI/CD Terraform IAC pipelines for public (AWS) and private (VMWare) cloud service deployments.
         - Using Docker to building container images to support CI/CD workloads.
         - Crafting Terraform and Ansible service deployment frameworks for the internal SRE community.
