@@ -7,7 +7,7 @@ title: Notable Projects
 assignments:
   - title: Self-service compute deployment portal
     time: Dec 2022 - Present
-    tagline: "Engaged in a pivotal project to deliver stakeholder aspirations of DevOps transformation. Simplifying the deployment process for private (VMWare) and public (AWS) cloud compute infrastructures via an intuitive self-service portal. Following an Agile methodology utilizing Jira, technically led the project opting to deliver a fully codified and automated process. Employing GitHub hosted repositories, Terraform Infrastructure-as-Code (IaC), AWS managed services such as DynamoDB, API Gateway, Lambda, and SQS, driven through Concourse CI pipelines, created a repeatable and reliable integration and deployment process. <br>The solution successfully delivered standardized defaults and robust security measures to platform clients, guaranteeing a consistent and compliant computing environment. Reducing delivery time to minutes whilst also improving the security and compliance audit scores for delivered systems. This allowed clients to focus on their unique value propositions, confident in the stability of the provided compute platforms."
+    tagline: "Engaged in a pivotal project to deliver stakeholder aspirations of DevOps transformation. Simplifying the deployment process for private (VMWare) and public (AWS) cloud compute infrastructures via an intuitive self-service portal. Following an Agile methodology utilising Jira, technically led the project opting to deliver a fully codified and automated process. Employing GitHub hosted repositories, Terraform Infrastructure-as-Code (IaC), AWS managed services such as DynamoDB, API Gateway, Lambda, and SQS, driven through Concourse CI pipelines, created a repeatable and reliable integration and deployment process. <br>The solution successfully delivered standardised defaults and robust security measures to platform clients, guaranteeing a consistent and compliant computing environment. Reducing delivery time to minutes whilst also improving the security and compliance audit scores for delivered systems. This allowed clients to focus on their unique value propositions, confident in the stability of the provided compute platforms."
   - title: AWS hosted remote Terraform state backend
     time: Nov 2022
     link: "https://github.com/mwatsham/concourse-aws-terraform-backend"
@@ -19,7 +19,7 @@ assignments:
   - title: Puppet server build automation
     time: Sept 2013 - Mar 2014
     #link: ""
-    tagline: "Transformed the process for the physical build Unix hosts by developing an Infrastructure-as-Code process using SpaceWalk, Cobbler, and Puppet. Server builds that could take days were brought down to minutes/hours. The consistency of the IaC approach also resulted in a reduction in incidents/call-outs plus a reduced resolution time due to consistent host configuration."
+    tagline: "Transformed the process for the physical build Unix hosts by developing an Infrastructure-as-Code process using Spacewalk, Cobbler, and Puppet. Server builds that could take days were brought down to minutes/hours. The consistency of the IaC approach also resulted in a reduction in incidents/call-outs plus a reduced resolution time due to consistent host configuration."
 #  - title: Tempo
 #    link: "#"
 #    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
