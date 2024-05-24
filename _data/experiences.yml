@@ -7,11 +7,13 @@ info:
     skills: AWS, Terraform, Ansible, Red Hat Linux, Concourse CI/CD, Python, Docker, GitHub, Kubernetes, VMWare vSphere
     details: |
       Creating a platform delivery center of excellence to facilitate the adoption of automated cloud deployments through self-service mechanisms and frameworks. 
-        - Leading the technical design and implementation of a self-service portal to deploy compute and resources to public and private cloud platforms.
-        - Proactively keeping up-to-date with relevant technical innovations and conducting proof-of-concepts to assess new technologies such as GitOps Argo CD for Kubernetes. 
-        - Developing Concourse CI/CD Terraform IAC pipelines for public (AWS) and private (VMWare) cloud service deployments.
-        - Using Docker to building container images to support CI/CD workloads.
-        - Crafting Terraform and Ansible service deployment frameworks for the internal SRE community.
+        - Led technical design and implementation of an AWS hosted self-service platform to deploy compute and resources to public and private cloud platforms.
+        - Implemented a Hashicorp Packer 'Golden' image CI pipeline to automate the production of CIS hardened RHEL VMware templates and AWS AMIs. Saving approx 2hrs in image preparation per image and improved the infrastructure security audit success rate by ~80%.
+        - Developed an automated Terraform Concourse CI pipeline to deploy VMWare VMs. This simplified VMware compute delivery, improving flow finfrastructure delivery teams, cutting compute request lead times by ~75%.
+        - Implemented a Python based Concourse CI resource type to enable integration of pipelines with AWS SQS queues which enabled a more dynamic and parameterised approach to triggering pipelines. Shared with the organisation SRE community, helped to reduce pipeline duplication, saving the organsiation unecessary AWS resource consumption.
+        - Created an AWS SAM/Terraform development environment, utilising AWS SAM features to develop Lambda code locally whilst deploying AWS services using Terraform Concourse CI pipeline. Lambda developers were able unit test their code locally saving development time and improving deployment success rate.
+        - Simplified the management of Terraform state by creating a pipeline to deliver AWS hosted state backend. This reduced the overhead for DevOps engineers to implement secure and resilient remote Terraform state backends, centralising state file management.
+        - Proactively keeping up-to-date with relevant technical innovations and conducting proof-of-concepts to assess new technologies. 
         - Providing technical mentorship for junior SREs.
 
   - role: Senior Unix Infrastructure Engineer
