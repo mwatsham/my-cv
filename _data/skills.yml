@@ -6,7 +6,7 @@ toolset:
     level: 80%
   - name: AWS - IAM, Lambda, DynamoDB, SQS, SNS, S3, EC2
     level: 65%
-  - name: Kubernetes, Docker
+  - name: Microservices - Kubernetes, Docker
     level: 50%
   - name: CICD - GitLab CICD, Concourse CI
     level: 80%   
