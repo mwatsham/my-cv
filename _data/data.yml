@@ -57,7 +57,7 @@ education:
     info:
       - degree: MSc in Computer Science
         university: University of Hertfordshire
-        time: 1998 - 2000
+#       time: 1998 - 2000
 #        details: |
 #          Describe your study here lorem ipsum dolor sit amet, consectetuer
 #          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,7 +68,7 @@ education:
 #            - Bullet point
       - degree: BA(Hons) Business Studies 2:1
         university: University of Hertfordshire
-        time: 1994 - 1998
+#        time: 1994 - 1998
 #        details: |
 #          Describe your study here lorem ipsum dolor sit amet, consectetuer
 #          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
