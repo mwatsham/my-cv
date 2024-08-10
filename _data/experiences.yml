@@ -7,7 +7,7 @@ info:
     skills: AWS, Terraform, Ansible, Red Hat Linux, Concourse CI/CD, Python, Docker, GitHub, Kubernetes, VMWare vSphere
     details: |
       Creating a platform delivery centre of excellence to facilitate the adoption of automated cloud deployments through self-service mechanisms and frameworks. 
-        - Led technical design and implementation of an AWS hosted self-service platform to deploy compute and resources to public and private cloud platforms.
+        - Led technical design and implementation of a distributed AWS hosted self-service platform to deploy compute and resources to public and private cloud platforms.
         - Implemented a Hashicorp Packer 'Golden' image CI pipeline to automate the production of CIS hardened RHEL VMware templates and AWS AMIs. Saving approx 2hrs in image preparation per image and improved the infrastructure security audit success rate by ~80%.
         - Developed an automated Terraform Concourse CI pipeline to deploy VMWare VMs. This simplified VMware compute delivery, improving flow for infrastructure delivery teams, cutting compute request lead times by ~75%.
         - Implemented a Python based Concourse CI resource type to enable integration of pipelines with AWS SQS queues which enabled a more dynamic and parameterised approach to triggering pipelines. Shared with the organisation SRE community, helped to reduce pipeline duplication, saving the organisation unnecessary AWS resource consumption.
@@ -30,7 +30,7 @@ info:
         - Participated in out-of-hours system support/changes.
         - Engineered POC environments and providing input into platform design processes.
         - Advocated the use of Ansible to automated repetitive operational activities, increasing team productivity. 
-        - Acted as an escalation point for troubleshooting.
+        - Acted as an escalation point for troubleshooting including Linux systems and TCP/IP networking.
         - Provided technical lead advice to team members and management. 
 
   - role: Broadcast Technology Integration Test Team Lead
