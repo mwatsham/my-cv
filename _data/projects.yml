@@ -15,7 +15,7 @@ assignments:
   - title: VMWare NSX-T CI/CD Pipeline
     time: June - Sept 2022
     #link: ""
-    tagline: "Designed and developed a Terraform based VMWare NSX-T configuration delivered via GitLab CI/CD. This required the adaptation of GitLab Runner Docker container images deployed to on-prem Rancher Kubernetes clusters to accommodate a more secure off-line environment. This benefitted business by reducing the required training overhead for NSX-T DFW delivery/configuration whilst satisfying the Security auditing requirement for distributed firewall changes. "
+    tagline: "Designed and developed a Terraform based VMWare NSX-T configuration delivered via GitLab CI/CD. This required the build and adaptation of GitLab Runner Docker container images deployed to on-prem Rancher Kubernetes clusters to accommodate a more secure off-line environment. This benefitted business by reducing the required training overhead for NSX-T DFW delivery/configuration whilst satisfying the Security auditing requirement for distributed firewall changes. "
   - title: Puppet server build automation
     time: Sept 2013 - Mar 2014
     #link: ""
