@@ -36,15 +36,15 @@ sidebar:
 #        - idiom: Spanish
 #          level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Blockchain
+#    interests:
+#      title: Interests
+#      info:
+#        - item: Blockchain
 #          link:
-        - item: Finance
+#        - item: Finance
 #          link:
 #
-        - item: Golf
+#        - item: Golf
 #          link:
 
 #career-profile:
