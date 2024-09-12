@@ -19,7 +19,7 @@ info:
   - role: Senior Unix Infrastructure Engineer
     time: Dec 2010 - June 2022
     company: Sky UK, Middlesex
-    skills: Red Hat Linux, Red Hat Satellite, Ansible, Terraform, GitLab CI/CD, Puppet, Docker, Harbor, Rancher, VMWare vSphere, VMWare NSXT
+    skills: Red Hat Linux, Red Hat Satellite, Ansible, Terraform, GitLab CI/CD, Puppet, Docker, Harbor, Rancher, VMWare vSphere, VMWare NSXT, Veritas Clustering
     details: |
       Operating in the fast-paced environment of Broadcast I.T., a leading team member with primary responsibilities covering project delivery and infrastructure deployments.  
         - Automated the server provisioning process, significantly reducing build times from days to minutes. 
